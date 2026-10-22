@@ -1,4 +1,4 @@
-# DataExploration_SQL
+# Covid-19 Exploratory Data Analysis --- SQL
 
 About the project:
 
@@ -22,6 +22,6 @@ Two main datasets used :-
 
 tools used:-
 
-		1. SQL – Data exploration, querying, filtering, aggregations, joins, and analysis
-    2. SQL Workbench– Database environment used to execute SQL queries
+	1. SQL – Data exploration, querying, filtering, aggregations, joins, and analysis
+    2. SQL Workbench – Database environment used to execute SQL queries
     3. Excel / CSV – Source data files and initial data handling
